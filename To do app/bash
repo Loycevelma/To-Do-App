@@ -1,0 +1,5 @@
+npx react-native init ToDoApp
+cd ToDoApp
+npm install @react-native-async-storage/async-storage
+
+npx react-native run-android  
